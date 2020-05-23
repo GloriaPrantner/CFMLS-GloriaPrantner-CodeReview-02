@@ -1,0 +1,20 @@
+main h2 {
+  color: maroon;
+  text-align: center; }
+main #science {
+  display: flex;
+  flex-wrap: wrap;
+  border-top: 1px solid black;
+  border-left: 1px solid black; }
+main #sciencetitle {
+  width: 100%; }
+main #article {
+  width: 40%;
+  padding: 2%;
+  background-color: #fcefd9;
+  height: 20%; }
+main .twitter-tweet {
+  margin: 2%;
+  float: left; }
+
+/*# sourceMappingURL=sciencestyle.css.map */

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IAAI;EACH,cAAc,EAAE,MAAM;EACtB,WAAW,EAAE,MAAM;;AAEpB,EAAE;EACD,KAAK,EAAE,MAAM;;AACd,KAAK;EACJ,aAAa,EAAE,eAAe",
+"sources": ["videostyle.sass"],
+"names": [],
+"file": "videostyle.css"
+}
